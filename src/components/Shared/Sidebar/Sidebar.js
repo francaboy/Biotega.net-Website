@@ -5,10 +5,10 @@ import Collapsible from "react-collapsible";
 
 const Sidebar = ({ show, handleClose }) => {
   const Home = <NavLink to="/">Početna</NavLink>;
-  const Department = <NavLink to="/about">O nama </NavLink>;
-  const Doctors = <NavLink to="/servicesTwo">Usluge </NavLink>;
-  const Shop = <NavLink to="/portfolioThreeColumn">Partneri</NavLink>;
-  const News = <NavLink to="/contact">Kontakt</NavLink>;
+  const Department = <NavLink to="/o-nama">O nama </NavLink>;
+  const Doctors = <NavLink to="/usluge">Usluge </NavLink>;
+  const Shop = <NavLink to="/partneri">Partneri</NavLink>;
+  const News = <NavLink to="/kontakt">Kontakt</NavLink>;
 
   return (
     <>
