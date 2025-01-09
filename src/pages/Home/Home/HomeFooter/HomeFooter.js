@@ -103,7 +103,7 @@ const HomeFooter = () => {
                   <p className="white-color">
                     ©{new Date().getFullYear()} Biotega d.o.o. Sva prava
                     zadržana. Made by
-                    <a href="https://srdjanmilosevic.com/"> Srđan.</a>
+                    <a href="https://srdjanmilosevic.com/"> Franca.</a>
                   </p>
                 </div>
               </div>
