@@ -31,7 +31,7 @@ const ContactArea = () => {
               <div className="contact text-center mb-30">
                 <i className="fas fa-phone"></i>
                 <h3>Telefon</h3>
-                <p>+387 51 439 405</p>
+                <p>+387 51 439 406</p>
                 <p>...</p>
               </div>
             </div>

@@ -16,7 +16,7 @@ const HomeFooter = () => {
                     </div>
                     <div className="emmergency-call-text f-left">
                       <h6>Kontakt telefon</h6>
-                      <span>+387 51 439 405</span>
+                      <span>+387 51 439 406</span>
                     </div>
                   </div>
                   <div className="footer-logo mb-35">

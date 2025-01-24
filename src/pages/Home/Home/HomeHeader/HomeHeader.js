@@ -17,7 +17,7 @@ const HomeHeader = () => {
               <div className="col-xl-6 offset-xl-1 col-lg-6 offset-lg-1 col-md-7 offset-md-1">
                 <div className="header-info">
                   <span>
-                    <i className="fas fa-phone"></i> +387 51 439 405
+                    <i className="fas fa-phone"></i> +387 51 439 406
                   </span>
                   <span>
                     <i className="fas fa-envelope"></i> info@biotega.net
