@@ -44,6 +44,9 @@ const HomeOurTeam = () => {
             <HomeSingleTeam image="7" />
             <HomeSingleTeam image="8" />
             <HomeSingleTeam image="9" />
+            <HomeSingleTeam image="10" />
+            <HomeSingleTeam image="11" />
+            <HomeSingleTeam image="12" />
           </div>
         </div>
       </section>

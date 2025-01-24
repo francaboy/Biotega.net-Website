@@ -45,5 +45,20 @@ const portfolioData = [
     img: "img/portfolio/port9.jpg",
     category: "",
   },
+  {
+    id: 10,
+    img: "img/portfolio/port10.jpg",
+    category: "",
+  },
+  {
+    id: 11,
+    img: "img/portfolio/port11.jpg",
+    category: "",
+  },
+  {
+    id: 12,
+    img: "img/portfolio/port12.jpg",
+    category: "",
+  },
 ];
 export default portfolioData;

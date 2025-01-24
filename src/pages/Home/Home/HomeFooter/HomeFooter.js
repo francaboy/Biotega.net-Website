@@ -17,6 +17,8 @@ const HomeFooter = () => {
                     <div className="emmergency-call-text f-left">
                       <h6>Kontakt telefon</h6>
                       <span>+387 51 439 406</span>
+                      <h6>Fax</h6>
+                      <span>+387 51 439 392</span>
                     </div>
                   </div>
                   <div className="footer-logo mb-35">
