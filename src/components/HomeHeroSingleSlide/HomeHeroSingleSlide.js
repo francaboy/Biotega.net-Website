@@ -21,7 +21,7 @@ const HomeHeroSingleSlide = ({ bg_className }) => {
                   </h1>
                   <p>
                     Biotega je vaš partner u poslovnom razvoju, povezujući
-                    lidera u farmaceutskoj, biotehnološkoj, potrošačkoj
+                    lidere u farmaceutskoj, biotehnološkoj, potrošačkoj
                     zdravstvenoj i medicinskoj industriji s ključnim tržištima.
                     Posvećeni kvalitetu, inovacijama i brizi, omogućavamo
                     širenje pristupa proizvodima i rješenjima koja unapređuju

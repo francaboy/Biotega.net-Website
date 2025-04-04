@@ -15,22 +15,23 @@ const CommonSectionArea = ({ area_header }) => {
                 </div>
                 <div className="about-text mb-50">
                   <p>
-                    Kompanija Biotega osnovana je 1953. godine, prvo pod nazivom
-                    Vetprom. Kroz decenije smo izgradili čvrstu i uglednu firmu,
-                    snažnim radom i kontinuiranim razvojem. Oslanjamo se na
-                    tradiciju, znanje i brz odgovor na promjene na tržištu.
-                    Ponosni smo na Biotegu kakva je danas, što je takođe i zbog
-                    vašeg povjerenja u nas. Posvećeni kvalitetu, poslovnoj
-                    usklađenosti i društvenoj odgovornosti, usmjereni prema
-                    ostvarivanju očekivanja naših poslovnih partnera, vlasnika i
-                    zaposlenih, već pola vijeka obavljamo našu misiju. Projmene
-                    su stalna karakteristika, a tokom istorije Biotege dogodilo
-                    se mnogo važnih prekretnica. Ponosimo se našim poslovnim
-                    uspjesima, dugoročnim poslovnim odnosima s našim partnerima,
-                    stručnošću i predanošću naših zaposlenika, te rastom i
-                    poslovnom reputacijom Biotege. Gledamo prema budućnosti s
-                    jasnom vizijom i čvrstim temeljima ukorenjenim u našoj
-                    istoriji.
+                    Kompanija Biotega osnovana je 1953. godine, prvobitno pod
+                    nazivom Vetprom. Tokom decenija izgradili smo snažnu i
+                    uglednu firmu, zasnovanu na predanom radu i kontinuiranom
+                    razvoju. Oslanjamo se na bogatu tradiciju, stručnost i brz
+                    odgovor na promjene tržišta. Ponosni smo na Biotegu kakva je
+                    danas — kompaniju u čijem razvoju važnu ulogu ima i vaše
+                    povjerenje. Posvećeni kvalitetu, poslovnoj usklađenosti i
+                    društvenoj odgovornosti, s fokusom na ispunjavanje
+                    očekivanja naših partnera, vlasnika i zaposlenih, svoju
+                    misiju sprovodimo već više od pola vijeka. Promjene su
+                    stalna karakteristika našeg puta, a istorija Biotege
+                    obilježena je brojnim značajnim prekretnicama. Ponosimo se
+                    postignutim poslovnim uspjesima, dugoročnim odnosima s
+                    partnerima, stručnošću i predanošću naših zaposlenih, kao i
+                    rastom i ugledom koji smo stekli. Gledamo ka budućnosti s
+                    jasnom vizijom, oslonjeni na čvrste temelje ukorijenjene u
+                    našoj istoriji.
                   </p>
                 </div>
                 <div className="our-destination">

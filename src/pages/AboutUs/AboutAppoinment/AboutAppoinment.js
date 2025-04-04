@@ -18,35 +18,37 @@ const AboutAppoinment = () => {
                   <p>
                     Pošto je Biotega specijalizovana za pružanje potpune
                     distribucije, promocije i aktivne prodajne usluge, kao i
-                    dodatne vrednosti potrebne za plasiranje lekovitih proizvoda
-                    ili medicinskih uređaja na tržište, predstavlja ključnu vezu
-                    u opskrbi lekovitim proizvodima, dodacima ishrani,
-                    medicinskim uređajima i visokokvalitetnim i inovativnim
-                    uslugama koje pružaju zdravlje i blagostanje ljudima.
+                    dodatne vrijednosti potrebne za plasiranje lijekovitih
+                    proizvoda ili medicinskih uređaja na tržište, predstavlja
+                    ključnu vezu u opskrbi lijekovitim proizvodima, dodacima
+                    prehrani, medicinskim uređajima i visokokvalitetnim i
+                    inovativnim uslugama koje pružaju zdravlje i blagostanje
+                    ljudima.
                     <br></br>
-                    <br></br>Mi, zaposleni, posvećeni smo kvalitetu i
-                    izvrsnosti, usklađenom ponašanju, sigurnosti, odgovornom
-                    ispunjavanju naše misije i posvećenosti prema našim kupcima,
-                    s kojima već više od pola veka stvaramo uspešnu poslovnu
-                    priču. Posjedujemo stručnost, godine iskustva, znanje
-                    tržišta, povećanu odgovornost i jasnu viziju koju cenimo
-                    mnoge međunarodne farmaceutske kompanije, proizvođači
-                    medicinskih uređaja i zdravstveni klijenti, kao i renomirani
-                    proizvođači inovativnih lekovitih proizvoda i lekova za
-                    retke bolesti, koji nam već godinama ukazuju poverenje.
+                    <br></br>i, zaposleni, posvećeni smo kvalitetu i izvrsnosti,
+                    usklađenom ponašanju, sigurnosti, odgovornom ispunjavanju
+                    naše misije i posvećenosti prema našim kupcima, s kojima već
+                    više od pola vijeka stvaramo uspješnu poslovnu priču.
+                    Posjedujemo stručnost, godine iskustva, znanje tržišta,
+                    povećanu odgovornost i jasnu viziju koju cijene mnoge
+                    međunarodne farmaceutske kompanije, proizvođači medicinskih
+                    uređaja i zdravstveni klijenti, kao i renomirani proizvođači
+                    inovativnih lijekovitih proizvoda i lijekova za rijetke
+                    bolesti, koji nam već godinama ukazuju povjerenje.
                     <br></br>
                     <br></br>Nudimo visokokvalitetnu implementaciju dodatnih
-                    vrednosti koje naši poslovni partneri sve više zahtevaju.
-                    Imamo iskustvo, fleksibilnost i sposobnost pružanja usluga
-                    koje naši partneri traže na jednom mestu. Kao važna veza
-                    između pružatelja zdravstvene zaštite, bolnica, apoteka i
-                    krajnjih korisnika, takođe pružamo usmerenu stručnu podršku
-                    u području poslovnog partnerstva, medicinskog marketinga,
-                    marketinga i prodaje. Podrška i stručna komunikacija
-                    odvijaju se putem različitih kanala, kako tradicionalnih,
-                    tako i modernih, odnosno digitalnih. Zahvaljujemo svakom od
-                    vas, našim cenjenim partnerima, koji nam ukazujete poverenje
-                    i stvarate priču o uspehu Biotegom zajedno s nama.<br></br>
+                    vrijednosti koje naši poslovni partneri sve više
+                    zahtijevaju. Imamo iskustvo, fleksibilnost i sposobnost
+                    pružanja usluga koje naši partneri traže na jednom mjestu.
+                    Kao važna veza između pružatelja zdravstvene zaštite,
+                    bolnica, apoteka i krajnjih korisnika, takođe pružamo
+                    usmjerenu stručnu podršku u području poslovnog partnerstva,
+                    medicinskog marketinga, marketinga i prodaje. Podrška i
+                    stručna komunikacija odvijaju se putem različitih kanala,
+                    kako tradicionalnih, tako i modernih, odnosno digitalnih.
+                    Zahvaljujemo svakom od vas, našim cijenjenim partnerima,
+                    koji nam ukazujete povjerenje i stvarate priču o uspjehu s
+                    Biotegom – zajedno s nama.<br></br>
                   </p>
                   <ul className="professinals-list pt-30">
                     <li>
@@ -59,7 +61,7 @@ const AboutAppoinment = () => {
                     </li>
                     <li>
                       <i className="fa fa-check"></i>
-                      UPROFESIONALNI smo, HRABRI I ISTRAJNI.
+                      PROFESIONALNI smo, HRABRI I ISTRAJNI.
                     </li>
                     <li>
                       <i className="fa fa-check"></i>

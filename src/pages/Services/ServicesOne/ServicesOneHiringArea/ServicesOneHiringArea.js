@@ -24,15 +24,15 @@ const ServicesOneHiringArea = () => {
                   u Bosni i Hercegovini omogućavanjem pristupa inovativnim
                   terapijama. S više od 70 godina iskustva, temeljitog
                   poznavanja tržišta i naše opsežne regionalne mreže, imamo
-                  uspešnu evidenciju u lansiranju i komercijalizaciji proizvoda
+                  uspješnu evidenciju u lansiranju i komercijalizaciji proizvoda
                   u regiji. Naši ključni partneri uključuju Bayer, Amicus
                   Therapeutics, Johnson & Johnson, Samsung Medison, Grande Vita,
                   GenePlanet i mnoge druge. U Biotegi stavljamo naše kupce i
-                  pacijente na prvo mesto i pružamo im sve usluge i podršku koja
-                  im je potrebna. Naša sveobuhvatna ponuda usluga uključuje
-                  pristup tržištu i cenama, medicinsku podršku, promociju,
+                  pacijente na prvo mjesto i pružamo im sve usluge i podršku
+                  koja im je potrebna. Naša sveobuhvatna ponuda usluga uključuje
+                  pristup tržištu i cijenama, medicinsku podršku, promociju,
                   prodaju, regulatorne usluge, farmakovigilanciju, distribuciju
-                  i skladištenje - sve koordinirano s našim sedištem u Banjoj
+                  i skladištenje - sve koordinirano s našim sjedištem u Banjoj
                   Luci, Bosna i Hercegovina. Fokusirani na profesionalnost i
                   posvećenost izvrsnosti, posvećeni smo doprinosu boljoj
                   budućnosti zdravlja u regiji.
@@ -84,7 +84,7 @@ const ServicesOneHiringArea = () => {
                     potrebne za stavljanje ljekovitih proizvoda na tržište, kao
                     i aktivnosti potrebne za održavanje marketinških odobrenja:
                     <br></br>
-                    Nacionalni postupci (NP),Postupci međusobnog priznavanja
+                    Nacionalni postupci (NP), Postupci međusobnog priznavanja
                     (MRP) i Postupci decentralizirane autorizacije (DCP)
                     <br></br>- nove prijave, produljenje, obnova, varijacije
                     marketinškog odobrenja i obavijesti. Centralizirani postupci
@@ -101,7 +101,7 @@ const ServicesOneHiringArea = () => {
                     dodatke prehrani, poput kontakta s nadležnim tijelom i
                     prijevoda i recenzije/korekcije tekstova.<br></br>
                     <br></br>
-                    Vaš kontakt dragana.strbac@biotega.net
+                    Vaš kontakt: dragana.strbac@biotega.net
                   </p>
                 </div>
               </div>
@@ -111,8 +111,10 @@ const ServicesOneHiringArea = () => {
                 <div className="hire-text">
                   <h1>Skladištenje i Prevoz</h1>
                   <p>
-                    Nudimo različite modele skladištenja (od prijema do dostave)
-                    za robu koja je u vlasništvu naših ugovornih partnera:
+                    Naš farmaceutski skladišni centar u Banjoj Luci ispunjava
+                    sve zakonske zahtjeve za skladištenje ljekovitih proizvoda i
+                    medicinskih uređaja, uključujući GDP/GMP standarde.
+                    Skladište nudi:
                     <br></br>-Skladištenje pod carinskom kontrolom za partnere
                     izvan Europske unije<br></br>-Konzignacijsko skladište
                     <br></br>-Ugovorno skladište<br></br>Režimi temperature:
