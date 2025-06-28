@@ -47,6 +47,22 @@ const HomeOurTeam = () => {
             <HomeSingleTeam image="10" />
             <HomeSingleTeam image="11" />
             <HomeSingleTeam image="12" />
+            <HomeSingleTeam image="13" />
+            <HomeSingleTeam image="14" />
+            <HomeSingleTeam image="15" />
+            <HomeSingleTeam image="16" />
+            <HomeSingleTeam image="17" />
+            <HomeSingleTeam image="18" />
+            <HomeSingleTeam image="19" />
+            <HomeSingleTeam image="20" />
+            <HomeSingleTeam image="21" />
+            <HomeSingleTeam image="22" />
+            <HomeSingleTeam image="23" />
+            <HomeSingleTeam image="24" />
+            <HomeSingleTeam image="25" />
+            <HomeSingleTeam image="26" />
+            <HomeSingleTeam image="27" />
+            <HomeSingleTeam image="28" />
           </div>
         </div>
       </section>
