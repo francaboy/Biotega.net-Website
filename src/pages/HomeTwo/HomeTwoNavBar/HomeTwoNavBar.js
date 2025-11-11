@@ -75,7 +75,7 @@ const HomeTwoNavBar = () => {
                                        <li><Link to="/blogDetailsGallery">Details Gallery</Link></li>
                                     </ul>
                                  </li>
-                                 <li><a href="#">Pages +</a>
+                                 <li><a href="/">Pages +</a>
                                     <ul className="submenu">
                                        <li><Link to="/about">About</Link></li>
                                        <li><Link to="/appoinment">Appoinment</Link></li>

@@ -17,7 +17,7 @@ const HomeSIngleService = ({ icon, title, border_class }) => {
           </div>
           <div className="service-content">
             <h3>
-              <Link to="#">{title}</Link>
+              <Link to="/">{title}</Link>
             </h3>
             {/* <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip exsdasdadadsadsadad ea commodo.</p>
                   <Link className="service-link" to="/servicesDetails">Read More</Link>*/}

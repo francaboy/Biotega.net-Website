@@ -13,21 +13,21 @@ const AboutAnalysis = () => {
                   <div className="col-xl-12">
                      <ul className="nav nav-pills mb-65" id="pills-tab" role="tablist">
                         <li className="nav-item">
-                           <a className="nav-link active" id="pills-home-tab" data-bs-toggle="pill" href="#pills-home" role="tab"
+                           <a className="nav-link active" id="pills-home-tab" data-bs-toggle="pill" href="/pills-home" role="tab"
                               aria-controls="pills-home" aria-selected="true">
                               <img src="img/analysis/search-icon.png" alt="" />
                               <h6>Industry analysis</h6>
                            </a>
                         </li>
                         <li className="nav-item">
-                           <a className="nav-link" id="pills-profile-tab" data-bs-toggle="pill" href="#pills-profile" role="tab"
+                           <a className="nav-link" id="pills-profile-tab" data-bs-toggle="pill" href="/pills-profile" role="tab"
                               aria-controls="pills-profile" aria-selected="false">
                               <img src="img/analysis/search-icon-2.png" alt="" />
                               <h6>Our comitment</h6>
                            </a>
                         </li>
                         <li className="nav-item">
-                           <a className="nav-link" id="pills-contact-tab" data-bs-toggle="pill" href="#pills-contact" role="tab"
+                           <a className="nav-link" id="pills-contact-tab" data-bs-toggle="pill" href="/pills-contact" role="tab"
                               aria-controls="pills-contact" aria-selected="false">
                               <img src="img/analysis/search-icon-3.png" alt="" />
                               <h6>how we start care?</h6>

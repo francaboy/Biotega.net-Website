@@ -152,21 +152,21 @@ const ServicesDetailsArea = () => {
                            </div>
                         </div>
                         <div className="download-area">
-                           <a className="download-box mb-20" href="#">
+                           <a className="download-box mb-20" href="/">
                               <div className="single-download-inner">
                                  <img src="img/icon/pdf.png" alt="" />
                                  <span>The Balanced Care Method Flyer.pdf</span>
                                  <span className="download-size">57KB</span>
                               </div>
                            </a>
-                           <a className="download-box mb-20" href="#">
+                           <a className="download-box mb-20" href="/">
                               <div className="single-download-inner">
                                  <img src="img/icon/doc.png" alt="" />
                                  <span>Infomation sheet 2 2016-17.doc</span>
                                  <span className="download-size">87KB</span>
                               </div>
                            </a>
-                           <a className="download-box mb-20" href="#">
+                           <a className="download-box mb-20" href="/">
                               <div className="single-download-inner">
                                  <img src="img/icon/zip.png" alt="" />
                                  <span>What_is_home_care_manual.zip</span>
@@ -269,7 +269,7 @@ const ServicesDetailsArea = () => {
                            </div>
                         </form>
                         <div className="ser-form-btn text-center mt-40">
-                           <a href="#" className="primary_btn btn-icon ml-0"
+                           <a href="/" className="primary_btn btn-icon ml-0"
                               style={{ animationDelay: '0.6s' }}
                               tabIndex="0"><span>+</span>Request for call</a>
                         </div>

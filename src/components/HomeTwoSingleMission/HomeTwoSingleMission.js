@@ -6,7 +6,7 @@ const HomeTwoSingleMission = ({icon,border}) => {
       <>
          <div className={border ? `mv-single-list d-flex ${border}` : "mv-single-list d-flex"}>
             <div className="mv-icon">
-               <img src={`img/icon/mv-icon-${icon}.png`} alt="#" />
+               <img src={`img/icon/mv-icon-${icon}.png`} alt="/" />
             </div>
             <div className="mv-text">
                <p>It enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut.</p>

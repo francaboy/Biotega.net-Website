@@ -10,15 +10,15 @@ const ShopDetailsDesc = () => {
                      <div className="bakix-details-tab">
                         <ul className="nav text-center justify-content-center pb-30 mb-50" id="myTab" role="tablist">
                            <li className="nav-item">
-                              <a className="nav-link active" id="desc-tab" data-bs-toggle="tab" href="#id-desc" role="tab"
+                              <a className="nav-link active" id="desc-tab" data-bs-toggle="tab" href="/id-desc" role="tab"
                                  aria-controls="home" aria-selected="true">Description </a>
                            </li>
                            <li className="nav-item">
-                              <a className="nav-link" id="id-add-in" data-bs-toggle="tab" href="#id-add" role="tab"
+                              <a className="nav-link" id="id-add-in" data-bs-toggle="tab" href="/id-add" role="tab"
                                  aria-controls="profile" aria-selected="false">Additional Information</a>
                            </li>
                            <li className="nav-item">
-                              <a className="nav-link" id="id-r" data-bs-toggle="tab" href="#id-rev" role="tab"
+                              <a className="nav-link" id="id-r" data-bs-toggle="tab" href="/id-rev" role="tab"
                                  aria-controls="profile" aria-selected="false">Reviews(10)</a>
                            </li>
                         </ul>

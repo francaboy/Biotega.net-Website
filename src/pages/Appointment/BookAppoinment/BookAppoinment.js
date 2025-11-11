@@ -66,7 +66,7 @@ const BookAppoinment = () => {
                               </div>
                            </div>
                         </div>
-                        <a href="#" className="primary_btn mt-40">submit query</a>
+                        <a href="/" className="primary_btn mt-40">submit query</a>
                      </div>
                   </div>
                </div>

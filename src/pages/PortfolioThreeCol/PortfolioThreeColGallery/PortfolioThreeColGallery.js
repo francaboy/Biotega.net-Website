@@ -10,7 +10,7 @@ const uniqueItem = arr.filter(
 );
 
 const PortfolioThreeColGallery = () => {
-  const [galleryItems, setGalleryItems] = useState(portfolioData);
+  const [galleryItems] = useState(portfolioData);
   const [filterGalleryItems, setFilterGalleryItems] = useState(uniqueItem);
   const [active, setActive] = useState("all");
   // console.log(galleryItems)

@@ -68,9 +68,9 @@ const HomeFourFooter = () => {
                            </div>
                            <div className="h4footer-social">
                               <ul className="list-inline">
-                                 <li><a href="#"><i className="fab fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i className="fab fa-twitter"></i></a></li>
-                                 <li><a href="#"><i className="fab fa-google"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-facebook-f"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-twitter"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-google"></i></a></li>
                               </ul>
                            </div>
                         </div>

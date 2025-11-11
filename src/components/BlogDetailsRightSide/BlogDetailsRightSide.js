@@ -26,11 +26,11 @@ const BlogDetailsRightSide = () => {
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
                                 ut labore.</p>
                             <div className="widget-social-icon">
-                                <a href="#"><i className="fab fa-facebook-f"></i></a>
-                                <a href="#"><i className="fab fa-twitter"></i></a>
-                                <a href="#"><i className="fab fa-behance"></i></a>
-                                <a href="#"><i className="fab fa-linkedin-in"></i></a>
-                                <a href="#"><i className="fab fa-youtube"></i></a>
+                                <a href="/"><i className="fab fa-facebook-f"></i></a>
+                                <a href="/"><i className="fab fa-twitter"></i></a>
+                                <a href="/"><i className="fab fa-behance"></i></a>
+                                <a href="/"><i className="fab fa-linkedin-in"></i></a>
+                                <a href="/"><i className="fab fa-youtube"></i></a>
                             </div>
                     </div>
                 </div>
@@ -101,11 +101,11 @@ const BlogDetailsRightSide = () => {
                         <h3 className="widget-title">Social Profile</h3>
                     </div>
                     <div className="social-profile">
-                        <a href="#"><i className="fab fa-facebook-f"></i></a>
-                        <a href="#"><i className="fab fa-twitter"></i></a>
-                        <a href="#"><i className="fab fa-behance"></i></a>
-                        <a href="#"><i className="fab fa-linkedin-in"></i></a>
-                        <a href="#"><i className="fab fa-youtube"></i></a>
+                        <a href="/"><i className="fab fa-facebook-f"></i></a>
+                        <a href="/"><i className="fab fa-twitter"></i></a>
+                        <a href="/"><i className="fab fa-behance"></i></a>
+                        <a href="/"><i className="fab fa-linkedin-in"></i></a>
+                        <a href="/"><i className="fab fa-youtube"></i></a>
                     </div>
                 </div>
                 <div className="widget mb-40">
@@ -114,15 +114,15 @@ const BlogDetailsRightSide = () => {
                         <h3 className="widget-title">Instagram Feeds</h3>
                     </div>
                     <ul id="Instafeed">
-                        <li><a href="#"><img src="img/instagram/ins1.jpg" alt=""/></a></li>
-                        <li><a href="#"><img src="img/instagram/ins2.jpg" alt=""/></a></li>
-                        <li><a href="#"><img src="img/instagram/ins3.jpg" alt=""/></a></li>
-                        <li><a href="#"><img src="img/instagram/ins4.jpg" alt=""/></a></li>
-                        <li><a href="#"><img src="img/instagram/ins5.jpg" alt=""/></a></li>
-                        <li><a href="#"><img src="img/instagram/ins6.jpg" alt=""/></a></li>
-                        <li><a href="#"><img src="img/instagram/ins7.jpg" alt=""/></a></li>
-                        <li><a href="#"><img src="img/instagram/ins8.jpg" alt=""/></a></li>
-                        <li><a href="#"><img src="img/instagram/ins9.jpg" alt=""/></a></li>
+                        <li><a href="/"><img src="img/instagram/ins1.jpg" alt=""/></a></li>
+                        <li><a href="/"><img src="img/instagram/ins2.jpg" alt=""/></a></li>
+                        <li><a href="/"><img src="img/instagram/ins3.jpg" alt=""/></a></li>
+                        <li><a href="/"><img src="img/instagram/ins4.jpg" alt=""/></a></li>
+                        <li><a href="/"><img src="img/instagram/ins5.jpg" alt=""/></a></li>
+                        <li><a href="/"><img src="img/instagram/ins6.jpg" alt=""/></a></li>
+                        <li><a href="/"><img src="img/instagram/ins7.jpg" alt=""/></a></li>
+                        <li><a href="/"><img src="img/instagram/ins8.jpg" alt=""/></a></li>
+                        <li><a href="/"><img src="img/instagram/ins9.jpg" alt=""/></a></li>
                     </ul>
                 </div>
                 <div className="widget mb-40">

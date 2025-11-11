@@ -16,11 +16,11 @@ const SingleTeam = ({number,image,name,title}) => {
                     </div>
                     <div className="h4team-social">
                         <ul className="list-inline">
-                            <li><a href="#"><i className="fab fa-facebook-f"></i></a></li>
-                            <li><a href="#"><i className="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i className="fab fa-behance"></i></a></li>
-                            <li><a href="#"><i className="fab fa-linkedin"></i></a></li>
-                            <li><a href="#"><i className="fab fa-youtube"></i></a></li>
+                            <li><a href="/"><i className="fab fa-facebook-f"></i></a></li>
+                            <li><a href="/"><i className="fab fa-twitter"></i></a></li>
+                            <li><a href="/"><i className="fab fa-behance"></i></a></li>
+                            <li><a href="/"><i className="fab fa-linkedin"></i></a></li>
+                            <li><a href="/"><i className="fab fa-youtube"></i></a></li>
                         </ul>
                     </div>
                 </div>

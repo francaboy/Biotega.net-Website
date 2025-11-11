@@ -30,7 +30,7 @@ const SingleSecondShop = ({image}) => {
                   Duis aute irure dolor in reprehenderit in voluptate.</p>
                <div className="product-action-list">
                   <Link className="primary_btn btn-theme" to="/shoppingCart">add to cart</Link>
-                  <a className="action-btn" href="#"><i className="fas fa-heart"></i></a>
+                  <a className="action-btn" href="/"><i className="fas fa-heart"></i></a>
                   <Link className="action-btn" to="/shopDetails"><i
                      className="fas fa-expand"></i></Link>
                </div>

@@ -9,7 +9,7 @@ const HomeFourAbout = () => {
                   <div className="col-xl-6 col-lg-5">
                      <div className="h4about-thumb pos-rel">
                         <img src="img/home4/about/about__thumb.jpg" alt="" />
-                        <a href="#" className="call-btn f-700 white-color green-bg">
+                        <a href="/" className="call-btn f-700 white-color green-bg">
                            <i className="call-icon"><img src="img/home4/icon/about__phone__icon.png" alt="" />
                            </i><span>Call : 012 (963) 15632</span></a>
                         <img src="img/home4/about/overlap.png" alt="" className="about-overlap__thumb" /> </div>

@@ -33,10 +33,10 @@ const HomeThreeNavBar = () => {
                                  <span>EN<i className="fas fa-angle-down"></i></span>
                            </div>
                            <ul className="header-lang-list header-lang-list-3">
-                              <li><a href="#">USA</a></li>
-                              <li><a href="#">UK</a></li>
-                              <li><a href="#">CA</a></li>
-                              <li><a href="#">AU</a></li>
+                              <li><a href="/">USA</a></li>
+                              <li><a href="/">UK</a></li>
+                              <li><a href="/">CA</a></li>
+                              <li><a href="/">AU</a></li>
                            </ul>
                         </div>
                         <div className="header-cta-info header-cta-info-3 d-flex f-left">
@@ -119,7 +119,7 @@ const HomeThreeNavBar = () => {
                                        <li><Link to="/blogDetailsGallery">Details Gallery</Link></li>
                                     </ul>
                                  </li>
-                                 <li><a href="#">Pages +</a>
+                                 <li><a href="/">Pages +</a>
                                     <ul className="submenu">
                                        <li><Link to="/about">About</Link></li>
                                        <li><Link to="/appoinment">Appoinment</Link></li>
@@ -139,13 +139,13 @@ const HomeThreeNavBar = () => {
                         <div className="header-right f-right">
                            <div className="header-social-icons f-right d-none d-lg-block p-0">
                               <ul>
-                                 <li><a href="#"><i className="fab fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i className="fab fa-behance"></i></a></li>
-                                 <li><a href="#"><i className="fab fa-youtube"></i></a></li>
-                                 <li><a href="#"><i className="fab fa-linkedin"></i></a></li>
-                                 <li><a href="#"><i className="fab fa-pinterest"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-facebook-f"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-behance"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-youtube"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-linkedin"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-pinterest"></i></a></li>
                                  <li className="header-menu-search">
-                                    <a className="nav-search search-trigger" href="#"><i className="fas fa-search"></i></a>
+                                    <a className="nav-search search-trigger" href="/"><i className="fas fa-search"></i></a>
                                  </li>
                               </ul>
                            </div>

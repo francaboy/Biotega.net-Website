@@ -6,7 +6,7 @@ const HomeThreeSingleFaq = ({ number, condition = false, fistClassAdd,secondClas
          <div className="card">
             <div className="card-header" id={`heading${number}`}>
                <h5 className="mb-0">
-                  <a href='#' className={`btn-link ${fistClassAdd && fistClassAdd}`}
+                  <a href='/' className={`btn-link ${fistClassAdd && fistClassAdd}`}
                   data-bs-toggle="collapse" data-bs-target={`#collapse${number}`}
                      aria-controls={`collapse${number}`} aria-expanded={condition} >
                      Why we doing batter with medidove wp theme?

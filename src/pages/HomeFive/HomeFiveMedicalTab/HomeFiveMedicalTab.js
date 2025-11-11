@@ -11,10 +11,10 @@ const HomeFiveMedicalTab = () => {
                      <div className="h5medical-tab-menu pos-rel">
                         <nav>
                            <div className="nav nav-tabs" id="nav-tab" role="tablist">
-                              <a className="nav-item nav-link active" id="nav-home-tab" data-bs-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true"><i><img src="img/home5/tab/tab__menu__icon1.png"
+                              <a className="nav-item nav-link active" id="nav-home-tab" data-bs-toggle="tab" href="/nav-home" role="tab" aria-controls="nav-home" aria-selected="true"><i><img src="img/home5/tab/tab__menu__icon1.png"
                               alt=""/></i> Dental Anxiety</a>
-                              <a className="nav-item nav-link" id="nav-profile-tab" data-bs-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false"><i><img src="img/home5/tab/tab__menu__icon2.png" alt=""/></i> Orthopedic</a>
-                              <a className="nav-item nav-link" id="nav-contact-tab" data-bs-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false"><i><img src="img/home5/tab/tab__menu__icon3.png" alt=""/></i> Dermatological</a>
+                              <a className="nav-item nav-link" id="nav-profile-tab" data-bs-toggle="tab" href="/nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false"><i><img src="img/home5/tab/tab__menu__icon2.png" alt=""/></i> Orthopedic</a>
+                              <a className="nav-item nav-link" id="nav-contact-tab" data-bs-toggle="tab" href="/nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false"><i><img src="img/home5/tab/tab__menu__icon3.png" alt=""/></i> Dermatological</a>
                            </div>
                         </nav>
                      </div>

@@ -32,7 +32,7 @@ const ShoppingCartArea = () => {
                                        <div className="cart-plus-minus"><input type="text" defaultValue="1" /></div>
                                     </td>
                                     <td className="product-subtotal"><span className="amount">$130.00</span></td>
-                                    <td className="product-remove"><a href="#"><i className="fa fa-times"></i></a></td>
+                                    <td className="product-remove"><a href="/"><i className="fa fa-times"></i></a></td>
                                  </tr>
                                  <tr>
                                     <td className="product-thumbnail"><Link to="/shopDetails"><img src="img/shop/img2.jpg"
@@ -43,7 +43,7 @@ const ShoppingCartArea = () => {
                                        <div className="cart-plus-minus"><input type="text" defaultValue="1" /></div>
                                     </td>
                                     <td className="product-subtotal"><span className="amount">$120.50</span></td>
-                                    <td className="product-remove"><a href="#"><i className="fa fa-times"></i></a></td>
+                                    <td className="product-remove"><a href="/"><i className="fa fa-times"></i></a></td>
                                  </tr>
                               </tbody>
                            </table>

@@ -85,11 +85,11 @@ const BlogDetailsLeftSide = ({details_topBar}) => {
                             <div className="col-xl-4 col-lg-4 col-md-4 mb-15">
                                 <div className="blog-share-icon text-left text-md-right">
                                     <span>Share: </span>
-                                    <a href="#"><i className="fab fa-facebook-f"></i></a>
-                                    <a href="#"><i className="fab fa-twitter"></i></a>
-                                    <a href="#"><i className="fab fa-instagram"></i></a>
-                                    <a href="#"><i className="fab fa-google-plus-g"></i></a>
-                                    <a href="#"><i className="fab fa-vimeo-v"></i></a>
+                                    <a href="/"><i className="fab fa-facebook-f"></i></a>
+                                    <a href="/"><i className="fab fa-twitter"></i></a>
+                                    <a href="/"><i className="fab fa-instagram"></i></a>
+                                    <a href="/"><i className="fab fa-google-plus-g"></i></a>
+                                    <a href="/"><i className="fab fa-vimeo-v"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -123,11 +123,11 @@ const BlogDetailsLeftSide = ({details_topBar}) => {
                         <div className="author-text text-center">
                             <h3>MD. Salim Rana</h3>
                             <div className="author-icon">
-                                <a href="#"><i className="fab fa-facebook-f"></i></a>
-                                <a href="#"><i className="fab fa-twitter"></i></a>
-                                <a href="#"><i className="fab fa-behance-square"></i></a>
-                                <a href="#"><i className="fab fa-youtube"></i></a>
-                                <a href="#"><i className="fab fa-vimeo-v"></i></a>
+                                <a href="/"><i className="fab fa-facebook-f"></i></a>
+                                <a href="/"><i className="fab fa-twitter"></i></a>
+                                <a href="/"><i className="fab fa-behance-square"></i></a>
+                                <a href="/"><i className="fab fa-youtube"></i></a>
+                                <a href="/"><i className="fab fa-vimeo-v"></i></a>
                             </div>
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
                                 incididunt ut labore et
@@ -208,7 +208,7 @@ const BlogDetailsLeftSide = ({details_topBar}) => {
                         <div className="post-comments-title">
                             <h2>Post Comments</h2>
                         </div>
-                        <form id="contacts-form" className="conatct-post-form" action="#">
+                        <form id="contacts-form" className="conatct-post-form" action="/">
                             <div className="row">
                                 <div className="col-xl-12">
                                     <div className="contact-icon contacts-message">

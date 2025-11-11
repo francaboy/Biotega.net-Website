@@ -10,13 +10,13 @@ const SingleShop = ({image,name,title}) => {
                     <div className="product__img">
                         <Link to="/shopDetails"><img src={`img/shop/img${image}.jpg`} alt=""/></Link>
                         <div className="product-action text-center">
-                            <a href="#"><i className="fas fa-shopping-cart"></i></a>
-                            <a href="#"><i className="fas fa-heart"></i></a>
+                            <a href="/"><i className="fas fa-shopping-cart"></i></a>
+                            <a href="/"><i className="fas fa-heart"></i></a>
                             <Link to="/shopDetails"><i className="fas fa-expand"></i></Link>
                         </div>
                     </div>
                     <div className="product__content text-center pt-30">
-                        <span className="pro-cat"><a href="#">{name}</a></span>
+                        <span className="pro-cat"><a href="/">{name}</a></span>
                         <h4 className="pro-title"><Link to="/shopDetails">{title}</Link></h4>
                         <div className="price">
                             <span>$95.00</span>

@@ -17,11 +17,11 @@ const ShopBanner = () => {
                      <div className="shop-tab f-right">
                         <ul className="nav text-center" id="myTab" role="tablist">
                            <li className="nav-item">
-                              <a className="nav-link active" id="home-tab" data-bs-toggle="tab" href="#home" role="tab"
+                              <a className="nav-link active" id="home-tab" data-bs-toggle="tab" href="/home" role="tab"
                                  aria-controls="home" aria-selected="true"><i className="fas fa-th-large"></i> </a>
                            </li>
                            <li className="nav-item">
-                              <a className="nav-link" id="profile-tab" data-bs-toggle="tab" href="#profile" role="tab"
+                              <a className="nav-link" id="profile-tab" data-bs-toggle="tab" href="/profile" role="tab"
                                  aria-controls="profile" aria-selected="false"><i className="fas fa-list-ul"></i></a>
                            </li>
                         </ul>
@@ -81,12 +81,12 @@ const ShopBanner = () => {
                   <div className="col-12">
                      <div className="basic-pagination basic-pagination-2 text-center mt-20">
                         <ul>
-                           <li><a href="#"><i className="fas fa-angle-double-left"></i></a></li>
-                           <li><a href="#">01</a></li>
-                           <li><a href="#">02</a></li>
-                           <li><a href="#">03</a></li>
-                           <li><a href="#"><i className="fas fa-ellipsis-h"></i></a></li>
-                           <li><a href="#"><i className="fas fa-angle-double-right"></i></a></li>
+                           <li><a href="/"><i className="fas fa-angle-double-left"></i></a></li>
+                           <li><a href="/">01</a></li>
+                           <li><a href="/">02</a></li>
+                           <li><a href="/">03</a></li>
+                           <li><a href="/"><i className="fas fa-ellipsis-h"></i></a></li>
+                           <li><a href="/"><i className="fas fa-angle-double-right"></i></a></li>
                         </ul>
                      </div>
                   </div>

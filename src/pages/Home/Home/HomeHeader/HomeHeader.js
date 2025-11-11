@@ -64,43 +64,43 @@ const HomeHeader = () => {
                     </div> 
                     <ul className="header-lang-list">
                       <li>
-                        <a href="#">USA</a>
+                        <a href="/">USA</a>
                       </li>
                       <li>
-                        <a href="#">UK</a>
+                        <a href="/">UK</a>
                       </li>
                       <li>
-                        <a href="#">CA</a>
+                        <a href="/">CA</a>
                       </li>
                       <li>
-                        <a href="#">AU</a>
+                        <a href="/">AU</a>
                       </li>
                     </ul>
                   </div>
                   <div className="header-social-icons f-right d-none d-xl-block">
                     <ul>
                       <li>
-                        <a href="#">
+                        <a href="/">
                           <i className="fab fa-facebook-f"></i>
                         </a>
                       </li>
                       <li>
-                        <a href="#">
+                        <a href="/">
                           <i className="fab fa-behance"></i>
                         </a>
                       </li>
                       <li>
-                        <a href="#">
+                        <a href="/">
                           <i className="fab fa-youtube"></i>
                         </a>
                       </li>
                       <li>
-                        <a href="#">
+                        <a href="/">
                           <i className="fab fa-linkedin"></i>
                         </a>
                       </li>
                       <li>
-                        <a href="#">
+                        <a href="/">
                           <i className="fab fa-pinterest"></i>
                         </a>
                       </li>
@@ -242,7 +242,7 @@ const HomeHeader = () => {
                         <Link to="/kontakt">Kontakt</Link>
                       </li>
                       {/* <li>
-                        <a href="#">Pages +</a>
+                        <a href="/">Pages +</a>
                         <ul className="submenu">
                           <li>
                             <Link to="/about">About</Link>

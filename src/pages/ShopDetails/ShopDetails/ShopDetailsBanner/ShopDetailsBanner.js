@@ -11,15 +11,15 @@ const ShopDetailsBanner = () => {
                      <div className="shop-thumb-tab mb-30">
                         <ul className="nav" id="myTab2" role="tablist">
                            <li className="nav-item">
-                              <a className="nav-link active" id="home-tab" data-bs-toggle="tab" href="#home" role="tab"
+                              <a className="nav-link active" id="home-tab" data-bs-toggle="tab" href="/home" role="tab"
                                  aria-selected="true"><img src="img/shop/details/thumb1.jpg" alt=""/> </a>
                            </li>
                            <li className="nav-item">
-                              <a className="nav-link" id="profile-tab" data-bs-toggle="tab" href="#profile" role="tab"
+                              <a className="nav-link" id="profile-tab" data-bs-toggle="tab" href="/profile" role="tab"
                                  aria-selected="false"><img src="img/shop/details/thumb2.jpg" alt=""/></a>
                            </li>
                            <li className="nav-item">
-                              <a className="nav-link" id="profile-tab2" data-bs-toggle="tab" href="#profile1" role="tab"
+                              <a className="nav-link" id="profile-tab2" data-bs-toggle="tab" href="/profile1" role="tab"
                                  aria-selected="false"><img src="img/shop/details/thumb3.jpg" alt=""/></a>
                            </li>
                         </ul>
@@ -65,11 +65,11 @@ const ShopDetailsBanner = () => {
                            <Link to="/shop">decor</Link>
                         </div>
                         <div className="product-social mb-45">
-                           <a href="#"><i className="fab fa-facebook-f"></i></a>
-                           <a href="#"><i className="fab fa-twitter"></i></a>
-                           <a href="#"><i className="fab fa-behance"></i></a>
-                           <a href="#"><i className="fab fa-linkedin-in"></i></a>
-                           <a href="#"><i className="fab fa-youtube"></i></a>
+                           <a href="/"><i className="fab fa-facebook-f"></i></a>
+                           <a href="/"><i className="fab fa-twitter"></i></a>
+                           <a href="/"><i className="fab fa-behance"></i></a>
+                           <a href="/"><i className="fab fa-linkedin-in"></i></a>
+                           <a href="/"><i className="fab fa-youtube"></i></a>
                         </div>
                         <div className="product-details-action">
                            <form action="#">

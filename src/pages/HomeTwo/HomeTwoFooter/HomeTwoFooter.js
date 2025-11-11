@@ -58,11 +58,11 @@ const HomeTwoFooter = () => {
                                     <div className="footer-co-content">
                                        <span>socials network</span>
                                        <ul>
-                                          <li><a href="#"><i className="fab fa-facebook-f"></i></a></li>
-                                          <li><a href="#"><i className="fab fa-behance"></i></a></li>
-                                          <li><a href="#"><i className="fab fa-linkedin"></i></a></li>
-                                          <li><a href="#"><i className="fab fa-youtube"></i></a></li>
-                                          <li><a href="#"><i className="fab fa-twitter"></i></a></li>
+                                          <li><a href="/"><i className="fab fa-facebook-f"></i></a></li>
+                                          <li><a href="/"><i className="fab fa-behance"></i></a></li>
+                                          <li><a href="/"><i className="fab fa-linkedin"></i></a></li>
+                                          <li><a href="/"><i className="fab fa-youtube"></i></a></li>
+                                          <li><a href="/"><i className="fab fa-twitter"></i></a></li>
                                        </ul>
                                     </div>
                                  </div>
@@ -113,7 +113,7 @@ const HomeTwoFooter = () => {
                         <div className="col-xl-12">
                            <div className="footer-copyright-area text-center">
                               <p className="white-color">Copyright ©2022 <strong><a className="white-color"
-                              href="#">Basictheme. </a></strong> All rights reserved</p>
+                              href="/">Basictheme. </a></strong> All rights reserved</p>
                            </div>
                         </div>
                      </div>

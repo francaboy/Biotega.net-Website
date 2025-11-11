@@ -24,9 +24,9 @@ const HomeThreePricing = () => {
                   <div className="col-xl-4 col-lg-5 col-md-12">
                      <nav className="pricing-nav mb-70">
                         <div className="nav nav-tabs" id="nav-tab" role="tablist">
-                           <a className="nav-item nav-link active" id="nav-home-tab" data-bs-toggle="tab" href="#nav-home"
+                           <a className="nav-item nav-link active" id="nav-home-tab" data-bs-toggle="tab" href="/nav-home"
                               role="tab" aria-controls="nav-home" aria-selected="true">Monthly</a>
-                           <a className="nav-item nav-link" id="nav-profile-tab" data-bs-toggle="tab" href="#nav-profile"
+                           <a className="nav-item nav-link" id="nav-profile-tab" data-bs-toggle="tab" href="/nav-profile"
                               role="tab" aria-controls="nav-profile" aria-selected="false">Yearly</a>
                         </div>
                      </nav>

@@ -25,18 +25,18 @@ const HomeFourFiveNavBar = () => {
                         <div className="top4-right d-flex justify-content-end">
                            <div className="top4-menu">
                               <ul className="list-inline">
-                                 <li><a className="need-help" href="#">Needs Help?</a></li>
-                                 <li><a href="#">Setting & Privacy</a></li>
-                                 <li><a href="#">Media</a></li>
+                                 <li><a className="need-help" href="/">Needs Help?</a></li>
+                                 <li><a href="/">Setting & Privacy</a></li>
+                                 <li><a href="/">Media</a></li>
                               </ul>
                            </div>
                            <div className="header-social-icons top4-social d-none d-xl-block">
                               <ul>
-                                 <li><a href="#"><i className="fab fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i className="fab fa-behance"></i></a></li>
-                                 <li><a href="#"><i className="fab fa-youtube"></i></a></li>
-                                 <li><a href="#"><i className="fab fa-linkedin"></i></a></li>
-                                 <li><a href="#"><i className="fab fa-pinterest"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-facebook-f"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-behance"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-youtube"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-linkedin"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-pinterest"></i></a></li>
                               </ul>
                            </div>
                         </div>
@@ -106,7 +106,7 @@ const HomeFourFiveNavBar = () => {
                                        <li><Link to="/blogDetailsGallery">Details Gallery</Link></li>
                                     </ul>
                                  </li>
-                                 <li><a href="#">Pages +</a>
+                                 <li><a href="/">Pages +</a>
                                     <ul className="submenu">
                                        <li><Link to="/about">About</Link></li>
                                        <li><Link to="/appoinment">Appoinment</Link></li>
@@ -117,7 +117,7 @@ const HomeFourFiveNavBar = () => {
                                        <li><Link to="/notMatch">404 page</Link></li>
                                     </ul>
                                  </li>
-                                 <li><a href="#"><i className="fal fa-search"></i></a></li>
+                                 <li><a href="/"><i className="fal fa-search"></i></a></li>
                               </ul>
                            </nav>
                         </div>
@@ -136,10 +136,10 @@ const HomeFourFiveNavBar = () => {
                                  <span>EN<i className="fas fa-angle-down"></i></span>
                               </div>
                               <ul className="header-lang-list">
-                                 <li><a href="#">USA</a></li>
-                                 <li><a href="#">UK</a></li>
-                                 <li><a href="#">CA</a></li>
-                                 <li><a href="#">AU</a></li>
+                                 <li><a href="/">USA</a></li>
+                                 <li><a href="/">UK</a></li>
+                                 <li><a href="/">CA</a></li>
+                                 <li><a href="/">AU</a></li>
                               </ul>
                            </div>
                            <div className="header-button pl-50">

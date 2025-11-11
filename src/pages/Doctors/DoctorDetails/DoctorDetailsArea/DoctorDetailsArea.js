@@ -114,12 +114,12 @@ const DoctorDetailsArea = () => {
                            </div>
                            <div className="team-social-profile">
                               <ul>
-                                 <li><a href="#"><i className="fab fa-facebook-f"></i></a></li>
-                                 <li><a href="#"><i className="fab fa-twitter"></i></a></li>
-                                 <li><a href="#"><i className="fab fa-behance"></i></a></li>
-                                 <li><a href="#"><i className="fab fa-linkedin"></i></a></li>
-                                 <li><a href="#"><i className="fab fa-pinterest"></i></a></li>
-                                 <li><a href="#"><i className="fab fa-youtube"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-facebook-f"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-twitter"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-behance"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-linkedin"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-pinterest"></i></a></li>
+                                 <li><a href="/"><i className="fab fa-youtube"></i></a></li>
                               </ul>
                            </div>
                         </div>
@@ -174,7 +174,7 @@ const DoctorDetailsArea = () => {
                            </div>
                         </form>
                         <div className="ser-form-btn text-center mt-40">
-                           <a href="#" className="primary_btn btn-icon ml-0"
+                           <a href="/" className="primary_btn btn-icon ml-0"
                               style={{ animationDelay: '0.6s' }} tabIndex="0"><span>+</span>Request for call</a>
                         </div>
                      </div>
@@ -184,10 +184,10 @@ const DoctorDetailsArea = () => {
                         </div>
                         <div className="doctor-detials-lan">
                            <ul>
-                              <li><a href="#">en</a></li>
-                              <li><a href="#">es</a></li>
-                              <li><a href="#">bd</a></li>
-                              <li><a href="#">la</a></li>
+                              <li><a href="/">en</a></li>
+                              <li><a href="/">es</a></li>
+                              <li><a href="/">bd</a></li>
+                              <li><a href="/">la</a></li>
                            </ul>
                         </div>
                      </div>
