@@ -30,7 +30,7 @@ const HomeAboutArea = () => {
                     Naša stručnost obuhvata distribuciju, logistiku i
                     prilagođena poslovna rješenja koja odgovaraju savremenim
                     zahtjevima industrije. Prateći globalne trendove,
-                    kontinuirano radimo na unapređenju svojih usluga,
+                    kontinuirano radimo na unapređenju naših usluga,
                     oslanjajući se na savremene tehnologije i inovativne
                     pristupe kako bismo osigurali efikasnost, preciznost i
                     pouzdanost u svakom koraku.
