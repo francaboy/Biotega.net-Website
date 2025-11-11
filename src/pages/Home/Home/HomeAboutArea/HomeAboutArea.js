@@ -48,11 +48,12 @@ const HomeAboutArea = () => {
                   </p>
                   <br />
                 </div>
-                {/*<div className="about-author d-flex align-items-center">
+                <div className="about-author d-flex align-items-center">
                   <div className="author-ava">
                     <img src="img/about/author-ava.png" alt="" />
                   </div>
-                  <div className="author-desination">
+                  </div>
+                 {/* <div className="author-desination">
                     <h4>Rosalina D. Williamson</h4>
                     <h6>founder</h6>
                   </div>
